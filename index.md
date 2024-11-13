@@ -5,3 +5,6 @@ Click New pull request, for the branches to compare, select base: main and compa
 Click Create pull request.
 In this pull request, go to the Files changed tab. We made an empty file index.md for you.
 Select Edit file from the three dotted ... menu in the upper right corner of the file 
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
